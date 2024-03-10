@@ -286,5 +286,428 @@ n.算数
 
 
 
-## 22:01
+## subtract
+
+v.减去，减
+
+subtraction n. 减法
+
+==minus prep.减，减去 n.缺点，减号 adj.小于零的，负的==
+
+
+
+## dividend
+
+n.被除数
+
+divide v.分配
+
+division n.分配，除法
+
+
+
+## remainder
+
+n.余数；剩余部分
+
+
+
+## quadruple
+
+double, triple, quadruple 
+
+adj.四倍的
+
+n.四倍
+
+quater n.四分之一
+
+
+
+## diagonal
+
+adj. 斜纹的；对角线的
+
+n.对角线；斜纹织物
+
+The two diagonals of a square cross in the centre.
+
+
+
+## cone
+
+n.圆锥体；锥形物
+
+sphere n.球体
+
+
+
+## extent
+
+n.广度，范围，程度
+
+No one cares about the extent of his debts.
+
+to some extent 在某种程度上
+
+
+
+## proportion
+
+n.比例
+
+
+
+## ratio
+
+比率
+
+The ratio of x to y x比y的比率
+
+in direct ratio 按正比例
+
+in inverse ratio 按反比例
+
+
+
+## scale
+
+v.攀登
+
+n.刻度；规模
+
+on a big/large scale 大规模的
+
+
+
+## ounce
+
+n.盎司；少量
+
+An ounce of prevention is worth a pound of cure.
+
+
+
+## transparent
+
+adj.透明的；易看穿的
+
+
+
+## hollow
+
+adj.空心的，中空的
+
+
+
+## ozone
+
+n. 臭氧
+
+ozone layer n. 臭氧层
+
+
+
+## friction
+
+n. 摩擦；不和；矛盾
+
+
+
+## eccentric
+
+adj.不同圆心的；古怪的
+
+The old lady has some eccentric habits.
+
+
+
+## ferment
+
+v.发酵；骚动
+
+n.酶；发酵；动乱
+
+yeast n.酵母，酵母菌
+
+
+
+## dilute
+
+~/dailut/
+
+v.冲淡，稀释
+
+adj. 稀释了的；减弱了的
+
+
+
+## acid
+
+除了酸的意思之外还有讽刺的，尖刻的意思
+
+acidification n.酸化
+
+
+
+## noxious
+
+adj.有害的
+
+
+
+## inhert
+
+adj. 无生气的；惰性的；不活泼的
+
+Helium and neon are inhert gases.
+
+
+
+## inherent
+
+adj. 内在的，固有的
+
+be inherent in…… 为……所固有
+
+Polarity is inherent in a magnet.
+
+
+
+## empirical
+
+adj.以实验为依据的；经验主义的
+
+
+
+## doctrine
+
+n.学说；教义；信条
+
+The doctrine is **unchangeable**.
+
+doctrinal adj. 学说的；教义的
+
+
+
+## forum
+
+n.论坛会，论坛；公开讨论的广场
+
+
+
+## rudimentary
+
+adj. 基本的，粗浅的
+
+He has only a rudimentary knowledge of the dinosaur.
+
+For most of the time, I only learnt knowledge rudimentarily in college life.
+
+rudiment n. =basic 基本原理，基础
+
+==fundamental adj. 基础的==
+
+==elementary adj.基本的；初级的==
+
+
+
+## superficial
+
+adj. 表面的，外表的；肤浅的
+
+superficially adv. 表面上地
+
+
+
+## prerequisite
+
+n. 必备条件
+
+adj.必备的
+
+requisite adj. 必要的，必需的
+
+requisition n. 征用；要求；申请书 vt.征用
+
+
+
+## revise
+
+v.修订，修改
+
+
+
+## scrutinise
+
+v. 仔细检查，仔细查看
+
+scrutiny n. 详细审查
+
+
+
+## recite
+
+v.背诵，朗诵
+
+recitation n. 背诵，朗诵
+
+==dictate v. 让（某人）听写；命令，强行规定==
+
+dictation v.听写
+
+
+
+## plagiarise
+
+/pleig~/不发ai音
+
+
+
+## dissertation
+
+n. 专题论文，尤指学位论文
+
+essay article thesis paper 
+
+
+
+## outset
+
+n.开端，开始
+
+
+
+## gist
+
+n. 主旨，要点
+
+
+
+## elicit
+
+v. 引出；探出，套出
+
+
+
+## extract
+
+n. 摘录
+
+v.提取
+
+extraction n.取出
+
+
+
+## abstract
+
+n. 抽象的
+
+v.提取；把……抽象出
+
+abstracted adj.心不在焉的
+
+abstract sth from sth. 从某物中提取出某物
+
+
+
+## presume
+
+v. 假定，假设；料想
+
+==assume v. 假设==
+
+==suppose v.假定，假设==
+
+==hypothesis n.假说，假设==
+
+==postulate v. 假定，假设 n. 假定，假设==
+
+==speculate v.推测==
+
+
+
+## perceive
+v.感知，察觉，意识到
+
+## discern 
+v. 觉察出；分辨出
+
+discernible adj. 可辨别的
+discerning adj. 有识别力的，有眼力的
+
+==conscious adj.意识到的==
+
+==be conscious of 知道，注意到==
+
+reckon v.估计；期望；认为
+
+
+
+## deem
+
+v.认为，相信
+
+
+
+## deliberate
+
+v. 深思熟虑，仔细考虑
+
+adj. 审慎的
+
+
+
+## deduce
+
+v.演绎，推论
+
+
+
+## analogy
+
+n.类比，类推
+
+analogous adj. 类似的
+
+by analogy 通过类推法
+
+
+
+## overlap
+
+v.与……重叠
+
+
+
+## nuance
+
+n.细微差别
+
+
+
+## inductive
+
+adj. 归纳的，诱导的
+
+induce v. 引起；引诱
+
+
+
+## query
+
+n. 疑问；询问
+
+~queue n.行列 v. 排队等候
+
+
+
+## grant
+
+v. 授予；准予；承认
+
+take sth. for granted 认为某事是理所应当的
+
+
 
