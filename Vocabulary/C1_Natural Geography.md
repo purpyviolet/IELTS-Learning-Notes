@@ -2,11 +2,15 @@
 
 n. 水圈；大气中的水汽
 
+Hydrosphere and atmosphere are components of the Earth.
+
 
 
 ## lithosphere
 
 n. 岩石圈
+
+Most of the livings live on the lithosphere
 
 
 
@@ -15,6 +19,8 @@ n. 岩石圈
 n.氧化物
 
 carbon dioxide
+
+The plants take in carbon dioxide and produce oxygen.
 
 
 
