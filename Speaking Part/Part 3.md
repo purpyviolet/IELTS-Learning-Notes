@@ -137,3 +137,272 @@ Ultimately, holiday destinations vary depending on individual preferences and in
 
 
 
+## 解释原因方法
+
+A回答：I would say there are a couple of reasons why...
+
+原因1：The first one in my mind is that.../ The first thing pops into my mind is that.../Above all/ First and formost
+
+
+
+原因2：Meanwhile/ apart from that/ on top of that/ Additionally/ Meanwhile
+
+
+
+Example: Why do people change their jobs frequently?
+
+草稿：Money, emotion, health, self-growth
+
+Certainly.
+
+A: I would say there are a couple of reasons why people change their jobs frequently.
+
+原因1: The first reason is often financial. Many individuals seek better-paying opportunities or job positions that offer higher salaries, bonuses, or benefits. Money plays a significant role in career decisions, and the prospect of earning more can be a strong incentive for changing jobs.
+
+原因2: Apart from financial considerations, emotional factors also contribute to job changes. This could include dissatisfaction with the current role or workplace environment, feeling undervalued, or experiencing conflicts with colleagues or superiors. Job satisfaction and emotional well-being are crucial aspects of a fulfilling career.
+
+
+
+### 万能原因
+
+1. Money
+
+Higher salaries; chances to get promoted;
+
+Higher standard of living;
+
+More job opportunities; generate incomes
+
+
+
+2. Health
+
+Stay healthy& keep fit
+
+build up body strength
+
+get enough exercise
+
+Receive better/ advanced health care
+
+
+
+3. Emotion(STRESS)
+
+Under huge pressure; be extremely stressful
+
+To unwind/ loosen up/ promote mental well-beings
+
+
+
+4. Self-growth
+
+gain new skills and new experiences
+
+a chance for personal growth and self-discovery
+
+can lead to intellectual development
+
+
+
+万能原因：Money, convenience, health, environment, emotion, internet(social media), self-growth, socialization
+
+
+
+## 优缺点
+
+What are the advantages and disadvantages of developing tourism?
+
+A回答：I'd say there are... pros and cons of
+
+优点展开：Well, I think the most obvious advantage is that...
+
+Meanwhile/ apart from that/ on top of that...
+
+缺点展开：However, it can cause problem as well. For example, ...
+
+
+
+万能角度：Economics(money), Culture/ tradition, environment.
+
+1. Economics(money)
+
+advantage: generate incomes, boost local economy, provide/open up job opportunities
+
+disadvantage: economy rely on tourism, become vulnerable
+
+2. Culture
+
+advantage: promote/ facilitate cultural exchange
+
+disadvantage: conflict, commodification, dilution
+
+3. Environment
+
+advantage:infrastruture
+
+disadvantage: cause the issue of littering, traffic jam/ congestion, noise pollution
+
+
+
+A: I'd say there are both advantages and disadvantages to developing tourism.
+
+优点展开：Well, the most obvious advantage is that it significantly boosts the local economy by generating income for businesses and creating job opportunities. Additionally, it promotes cultural exchange and understanding among visitors and local residents.
+
+缺点展开：However, it can also lead to issues such as overreliance on tourism for economic stability, conflicts between tourists and locals, and environmental degradation due to overcrowding and pollution at popular destinations. So, while tourism brings economic benefits and cultural exchange, it's essential to manage its impact sustainably to ensure long-term benefits for everyone involved.
+
+
+
+Example: What are the advantages and disadvantages of living in the suburb?
+
+Living in the suburbs has its pros and cons.
+
+On the positive side, suburbs often offer more affordable housing options and a quieter, safer environment compared to urban areas. Many families are drawn to the spacious homes and sense of community that suburbs provide.
+
+However, living in the suburbs typically means longer commutes to work or amenities, as urban centers are often a distance away. Additionally, public transportation options are often limited in suburban areas, leading to reliance on personal vehicles and potential traffic congestion.
+
+In essence, while the suburbs offer affordability and a peaceful atmosphere, they come with challenges such as longer commutes and limited access to public transit.
+
+
+
+
+
+
+
+## 观点类
+
+思路一：
+
+1. 观点
+2. 原因
+3. 正向假设/反向假设
+
+Example: Should children learn to draw and paint?
+
+给出立场：Yeah, for sure, the way I see it, children really should learn drawing and paiinting.
+
+原因：It fosters their creativity and imagination, allowing them to express thoughts and feelings visually. When they are happy, frustrated, sad, scared or confused, they can express all of those feeling by createing art.
+
+反向假设：If a child doesn't learn how to draw or paint, they would lose a special channel to let out their emotions and the opportunity to express their feelings.
+
+
+
+介绍观点：
+
+1. I would say/argue that...
+2. It seems to me that...
+3. As far as I am concerned, ...
+4. From my point of view,...
+5. I consider/ find/ suppose that...
+6. My view/ opinion/ belief/ conviction is that.
+
+给出原因
+
+1. The reason for that is...
+2. The reason why I think that is...
+3. ..., for the reason that
+4. ..., this is mainly because...
+
+做出假设
+
+1. if...
+2. if not...
+
+
+
+思路二：
+
+Example: Do you think it's important for children to read books?
+
+给出立场：Yeah, for sure. I'm convinced that children should read books.
+
+原因一：One reason is that, reading books can enhance children's imagination and creativity. When reading books, children can come up with their own interpretation of the stories or even expand the stories.
+
+原因二：On top of that, books expose children to different ideas, cultures, and perspectives, broadening their understanding of the world around them.
+
+
+
+思路三（双边讨论）：
+
+1. 观点
+2. 让步（it's true that)
+3. 重申自己的观点（Having said that...)
+4. 解释because...
+5. 举例 A typical example is that...
+
+给出观点$\to$ 回应问题&选择立场
+
+另一立场的合理性 we can't deny that... R原因，E展开
+
+自己立场的合理性But this is not always the case.
+
+
+
+
+
+给出观点：
+
+1. It's true that...
+2. We cannot deny that...
+3. Many people would argue that...
+4. Some people claim that...
+
+反驳漏洞：
+
+1. But I don't see it that way
+2. But this is not always the case
+3. There are always exceptions
+4. However, it's not necessarily true
+5. But sometimes you also need to take into account the fact that...
+
+
+
+思路四（分情况讨论）：
+
+1. 需要看情况It depends on what... we are talking about
+2. 情况一 if we're talking about...
+3. 情况二 if we're talking about...
+
+
+
+
+
+## 对比类
+
+What are the differences between painting and drawing?
+
+对比维度：找出AB两方面不同的一个维度
+
+对比讨论AB面：A细节例证 对比 B细节例证
+
+
+
+对比维度：
+
+The first difference that comes to my mind is that...
+
+The most significant difference lies in...
+
+对比讨论AB面：
+
+In contrast/ By contrast
+
+...whereas/ while...
+
+which is different from...
+
+
+
+对比维度：找到不同维度 A面特点+B面特点 分开讨论
+
+Example: What are the differences between paper and digital maps?
+
+The differences between paper and digital maps are quite distinct.
+
+Paper maps offer a tangible, portable format that doesn't require electricity or internet access. They provide a traditional, tactile experience, which some people find more enjoyable, especially in outdoor or remote settings.
+
+In contrast, digital maps offer convenience and real-time information. They can be accessed on smartphones or GPS devices, providing features like live navigation, interactive capabilities, and the ability to search for specific locations quickly.
+
+While paper maps require physical storage and may become outdated, digital maps are easily stored on electronic devices. However, they rely on battery power and internet connectivity, which can be limitations in certain situations.
+
+Ultimately, the choice between paper and digital maps depends on individual preferences and specific needs, balancing traditional navigation with modern convenience.
