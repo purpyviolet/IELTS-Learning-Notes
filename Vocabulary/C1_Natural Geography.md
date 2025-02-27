@@ -128,7 +128,7 @@ n. 大风
 
 an active/dormant extinct volcano 活/休眠/死 火山
 
-sit on a volcano 处境危险
+**sit on a volcano 处境危险**
 
 
 

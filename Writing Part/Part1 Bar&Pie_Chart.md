@@ -359,5 +359,314 @@ The **percentage of spending on utility bills** experienced a rise in the UK, in
 
 ![image-20240418213326980](Part1 Bar&Pie_Chart.assets/image-20240418213326980.png)
 
-Introduction
+### Introduction
 
+首先变换句型：
+
+1. frequently -> often
+2. People in USA -> the US citizens
+3. Between ... and ... -> from ... to ... / in the years 2003, 2006 and 2013
+
+于是原句：
+
+The chart below shows how frequently people in the USA ate in fast food restuarants between 2003 and 2013.
+
+:arrow_down:
+
+The bar chart illustrates  changes in the frequency of US citizens ate in fast food restuarants in the years 2003, 2006 and 2013.
+
+
+
+### 主体段结构：
+
+第一段：写主题下降趋势的部分
+
+<img src="Part1 Bar&Pie_Chart.assets/image-20250227141944734.png" alt="image-20250227141944734" style="zoom: 33%;" />
+
+其中每三个组合就能表示一个趋势，可以发现有2个处于上升，其他4个处于下降
+
+具体来说：
+
+1. Every day 与 never 趋势一致且数据相似（先下降后平稳）
+2. several times 与 once a week的趋势一致（先上升到顶点后下降）
+3. once or twice a month 先下降后上升
+4. a few times a year 先上升后平稳
+
+1，2放在第一段，3，4放在第二段
+
+#### 主体段1：
+
+From 2003 to 2006, the percentage of people who had never eaten or eaten every day at these restuarants had fallen by 1% from the original 5% and 4% respectively. Since 2006, no changes had occurred in these segments of the chart. During the same period, the figures for those eating fast food once and several times on a weekly basis also decreased to about 27% and 15%, despite their peaking at 33% and 20% in 2006.
+
+#### 主体段2：
+
+There was an opposite trend for the population eating at such facilities monthly or a few times a year. Although the proportion of the former had seen a dramatic decrese in 2006, it increased to 33% and constituted the largest part of the population in 2013. The latter experienced a marginal increment to 15% in 2006 and remained the same until 2013. As a whole, the majority of people ate out at fast-food restuarants once a week or once/twice a month, and these restuarants were the most popular in 2006 and least popular in 2013.
+
+
+
+## 静态图
+
+开头段也是对原题进行改写，与动态图的方法一致
+
+### Example 1
+
+<img src="Part1 Bar&Pie_Chart.assets/image-20250227143440334.png" alt="image-20250227143440334" style="zoom: 50%;" />
+
+### overview
+
+Overall, the most developed areas among the six mainly use water for industry while the less developed ones use water mostly in the agricultural sector. Among all areas, Europe has the largest proportion of water for industrial purposes, while the figure for agricultural use is the highest in Central Asia.
+
+
+
+### paragraphing
+
+按用途分：
+
+1. Industrial use
+2. Agricultural use
+3. Domestic use
+
+按地区分段：
+
+1. NA + EU
+2. Others
+
+Key features
+
+1. industry > agriculture > domestic
+2. Industrial +++ in EU, Agriculture +++ in CA, Domestic +++ in SA
+
+Details
+
+1. Industry 53%(half), agriculture 32%, domestic 15%
+
+Comparison
+
+1. industry biggest, agriculture second, domestics smallest
+2. EU agricultural double domestic
+
+区域间比较：
+
+1. Industry: EU slightly > NA
+2. agriculture: NA slightly >EU
+3. domestic: EU similar NA
+
+
+
+### 思路1
+
+#### 主体段1
+
+People in North America and Europe use water with slight differences. More than half (53%) of the consumption in Europe is for industrial production, slightly higher than 48% in North America. Conversely, 7% more water is needed in the former than the latter for agricultural sue. In both continents, less than 20% is for domestic consumption.
+
+#### 主体段2
+
+In these two regions, industry is the biggest consumer of water. In Europe, slightly over a half is used by this sector, while a third is for agricultrual purposes. Household use the smallest amount, 15%. In North America, water use for agriculture constitutes 39% of the total, moderately higher than that in Europe. In addition, almost a half is consumed by industry, while domestic use is made up of merely 13%.
+
+
+
+### 思路2
+
+Key features
+
+Agriculture > industry and domestic
+
+Agriculture +++ in CA
+
+domestic +++ in SA
+
+Details
+
+Agriculture: 80% + (except SA 71%)
+
+Industry: much lower < 15%
+
+Domestic: <20%, SA 19%
+
+#### 主体段1
+
+There are different patterns in other areas. The majority fof water is consumed for agriculture, with proportion reaching 88% in Central Asia and ranging between 70% and 85% in other three places. In contrast, the figures for ther other two purposes are considerably lower. As for domestic use, except 19% in South America, the data are below 10%, and for industrial productions, the percentages are no larger than 15%.
+
+
+
+#### 主体段2
+
+The other four regions saw great use of water in the agricultural sector. Africa and central Asia use the largest amounts in agriculture, at 84% and 86% respectively, while industry and households share the rest nearly equally. Around four fifths of all water consumed in Southeast Asia is for agricultural use. While 12% goes to industry, the remaining 7% is for domestic use. In South America, households are also the lowest consumer of water (10%), but industry uses almost twice as much. The remainder (71%) is all for agriculture.
+
+
+
+### Example 2
+
+
+
+
+
+<img src="Part1 Bar&Pie_Chart.assets/image-20250227144020359.png" alt="image-20250227144020359" style="zoom:50%;" />
+
+It is clear that China and USA were the biggest producers and users of the electricity by far. Except for Germany, all countries in question produced more electricity than they used, though the diffences were generally not large.
+
+
+
+### paragraphing
+
+Key features
+
+1. CN+++, US+++, Russia = 1k
+
+Details
+
+1. CN 5400, US 4000, Russia = 1/5 CN
+
+Key features
+
+1. 450 < other < 1000, Germany C > P
+
+Details
+
+1. 450 < other < 1000, Germany C - P = 60, KR < 500 least
+
+
+
+#### 主体段1
+
+China generated and consumed just under 5400 billion kWh electricity, and both figures topped the list in its own cate gory. America was the second largest electricity supplier, producing 4099 billion kWh in 2014, which surpassed its consumption amounts by around 300 billion kWh. The third ranking country in production and consumption of electricity was Russia, with the figures merely one fifth of those of China.
+
+
+
+#### 主体段2
+
+For the rest countries, the amounts of electricity generation and consumption all fell within the spread of between 450 and 950 billion kWh. While Germany consumed about 60 billion kWh more than it produced, the amounts of electricity Korea produced and used were the lowest at no more than 500 billion kWh.
+
+
+
+
+
+## 句型与表达
+
+比较级： 对象词 + v. or be动词 + adv + adj(比较级) + n. + than + 比较对象（数据 + $时间_{动态图}$）
+
+比较对象（数据 + $时间_{动态图}$）
+
+Germany C - P = 60 billion kWh
+
+**Germany consumed about 60 billion kWh more than it produced.**
+
+Agriculture 39% in NA, higher than Europe
+
+**In North America, water use for agriculture accounts for 39% of the total, moderately higher than that in Europe.**
+
+
+
+最高级：对象词 + v. + the highest/ most/ largest/ lowest/ smallest
+
+Industry +++ in NA & EU
+
+**In developed regions, industry is the biggest consumer of water.**
+
+Agriculture +++ in Africa(84%) and Central Asia(86%)
+
+Africa and central Asia use the largest amounts in agriculture, at 84% and 86% respectively.
+
+
+
+常用连接词：
+
+while/ whereas 前后跟句子，如果描述的是同一个主语可以改成短语形式
+
+compared with/ to, 跟短语
+
+by contrast/ in comparison 不能连接两个句子
+
+
+
+倍数句型：
+
+对象词+v. or be. + 倍数词 as much/many/high/big as 比较对象
+
+倍数词：twice/ three times/ five times
+
+
+
+In SA industry (19%) twice domestic (10%)
+
+**In SA, industry (19%) uses almost twice water as much as households (10%)**
+
+$\downarrow$
+
+**In South America, households are alse the lowest consumer of water (10%), but industry uses almost twice as much.**
+
+
+
+对象词+倍数词(v.)/be + 倍数词(adj./ n.) + 比较对象
+
+倍数词：double/triple/quadruple/two thirds/ one tenth
+
+Russia 1/5 CN
+
+The production and consumption of electricity in Russia was one fifth of that of China.
+
+$\downarrow$
+
+The third ranking country in production and consumption of electricity was Russia, with the figures merely one fifth of those of China.
+
+
+
+定语从句
+
+![image-20250227161055785](Part1 Bar&Pie_Chart.assets/image-20250227161055785.png)
+
+e.g.
+
+![image-20250227161124122](Part1 Bar&Pie_Chart.assets/image-20250227161124122.png)
+
+![image-20250227161136975](Part1 Bar&Pie_Chart.assets/image-20250227161136975.png)
+
+
+
+
+
+## 全文练习(动态＋静态)
+
+![image-20250227161207724](Part1 Bar&Pie_Chart.assets/image-20250227161207724.png)
+
+### Planning
+
+overview:
+
+1. banana整体都有上升趋势
+
+2. latin的banana上升幅度很大，同时本身出口就很多
+3. 图二中Distribution & Retail占比很多
+
+
+
+detail paragraph1：
+
+1. 1993 LA有5million，是别的5倍
+2. 2003 LA有11million，相比自己翻了1倍
+3. FE到达1.2，Africa到达0.8
+
+detail paragraph2：
+
+1. D&R 占比非常多，达到了三分之一，producers占比很少，只有5%
+2. exporters 占比最少，只有4%
+3. profit第二多占比，18%；taxes第三多，为16%
+4. shipping & import licenses
+
+
+
+### Overview
+
+Overall, this period saw a rise in the number of bananas from all exporting areas with Latin American exporters shipping most bananas in both years. Although the largest part of the banana export cost was from distribution and retail, the cost of each part was unevenly distributed.
+
+
+
+### Detail para 1
+
+In 1993, the largest banana exports came from Latin America at about 5 million tonnes, which was almost **five times more** than the rest of world combined. By 2003, Latin American exports had noticeably increased to 11 million tonnes, **twice its figure** in 1993. **By contrast**, exporters in Far East were responsible for 1.2 million tonnes, followed by African shippers with less than 1 million tonnes.
+
+
+
+### Detail para 2
+
+The cost breakdown of bananas reveals that over one third of the cost went to distribution centres and retailers, whereas producers received merely 5%, and exporters 4%, of the value of the crop. Profit and taxes accounted for the second and third largest proportion of the cost each banana sold at 18% and 16% respectively. Finally, figures for shipping and import licensing **were roughly the same**.
