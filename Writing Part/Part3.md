@@ -289,9 +289,7 @@ Some people think young people are not suitable for important positions in the g
 
 Discuss both views and give your own opinion.
 
-To begin with, some believe that it is not proper to give the reins of a nation in raw hands. This
-is because people without experience in decision-making positions are likely to misjudge a situation and consequently make an unwise decision that would be later proved wrong, if not
-fatal.
+To begin with, some believe that it is not proper to give the reins of a nation in raw hands. This is because people without experience in decision-making positions are likely to misjudge a situation and consequently make an unwise decision that would be later proved wrong, if not fatal.
 
 Expansion例子: For example, if a fresh graduate held a senior position in military, the immature in charge, due to lack of field experience, would be unable to run a remote team and manage military operations.
 
@@ -525,6 +523,4 @@ As language reflects its cultures, these early learners may also gain a better u
 
 **negative:**
 
-There are, however, some disadvantages. Primary school teachers are generalists, and may not have
-the necessary language skills themselves. If specialists have to be brought in to deliver these sessions, the flexibility referred to above is diminished. If primary language teaching is not standardized, secondary schools could be faced with a great variety of levels in different languages within their intake, resulting in a classroom experience which undoes the earlier gains. There is no advantage if enthusiastic primary pupils become demotivated as soon as they change schools. However, these issues can be addressed strategically
-within the policy adopted.
+There are, however, some disadvantages. Primary school teachers are generalists, and may not have the necessary language skills themselves. If specialists have to be brought in to deliver these sessions, the flexibility referred to above is diminished. If primary language teaching is not standardized, secondary schools could be faced with a great variety of levels in different languages within their intake, resulting in a classroom experience which undoes the earlier gains. There is no advantage if enthusiastic primary pupils become demotivated as soon as they change schools. However, these issues can be addressed strategically within the policy adopted.
