@@ -134,9 +134,12 @@
 1. 文化的保护**需要大量的资金支持**(would need a great deal of financial support)
 2. **维修老房子**(the renovation of old houses)需要大量**政府资金**(government capital)
 3. **财政负担过重**(can be financially overburdened)
-4. **导致****失调****的经济**( could lead to a dysfunctional economy)
+4. **导致失调的经济**( could lead to a dysfunctional economy)
 5. 和科技相比，文化保护很难给人们带来**实用价值**(material value)
 6. **占用太多的城市土地**(occupy a great deal of land in cities)
 7. **不利于城市化的发展**(may bring disadvantages to the development of urbanization)
 
 8. **不利于城市建设和旅游业的发展**(play a negative role in the construction of a city and the development of tourism)
+
+
+
