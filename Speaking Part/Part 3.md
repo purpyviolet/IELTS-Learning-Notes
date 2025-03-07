@@ -279,9 +279,9 @@ In essence, while the suburbs offer affordability and a peaceful atmosphere, the
 
 Example: Should children learn to draw and paint?
 
-给出立场：Yeah, for sure, the way I see it, children really should learn drawing and paiinting.
+给出立场：Yeah, for sure, the way I see it, children really should learn drawing and painting.
 
-原因：It fosters their creativity and imagination, allowing them to express thoughts and feelings visually. When they are happy, frustrated, sad, scared or confused, they can express all of those feeling by createing art.
+原因：It fosters their creativity and imagination, allowing them to express thoughts and feelings visually. When they are happy, frustrated, sad, scared or confused, they can express all of those feeling by creating art.
 
 反向假设：If a child doesn't learn how to draw or paint, they would lose a special channel to let out their emotions and the opportunity to express their feelings.
 

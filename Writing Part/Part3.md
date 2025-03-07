@@ -168,8 +168,7 @@ Parental guidance, of course, is of importance to reducing the number of crimes 
 2. extracurricular activities such as volunteer work;lectures about how to give helping hand to others.
 3. learn how to contribute → become acceptable members with moral compass in their mind.
 
-Teachers and schools can also contribute to preventing youth crime. Since high school students would go to school for education and spend most of
-their daytime at school, teachers and schools are responsible for students’ behavioral issues.
+Teachers and schools can also contribute to preventing youth crime. Since high school students would go to school for education and spend most of their daytime at school, teachers and schools are responsible for students’ behavioral issues.
 
 
 
@@ -205,31 +204,21 @@ To what extent do you agree or disagree?
 
 Para1
 
-The Internet is beginning to rival newspapers as the best
-place to find information about what is happening in the
-world. I believe that this trend will continue, and the Internet
-will soon be just as important as the traditional ones.
+The Internet is beginning to rival newspapers as the best place to find information about what is happening in the world. I believe that this trend will continue, and the Internet will soon be just as important as the traditional ones.
 
 
 
 Para2(具体介绍newspapers)
 
-On the one hand, newspapers will continue to be a vital
-source of news in the Internet age. 
+On the one hand, newspapers will continue to be a vital source of news in the Internet age. 
 
 A major reason for this is
-newspapers are widely regarded as the most traditional
-means of news communication. 
+newspapers are widely regarded as the most traditional means of news communication. 
 
-Most people today still enjoy
-the experience of holding and reading newspapers rather
-than browsing news on a screen. 
+Most people today still enjoy the experience of holding and reading newspapers rather than browsing news on a screen. 
 
-Additionally, newspapers
-can be trusted as the most reliable source of news, as they
-are edited and proofread by professional journalists and
-editors. This feature makes it an authoritative source in many
-people’s eyes.
+Additionally, newspapers can be trusted as the most reliable source of news, as they are edited and proofread by professional journalists and
+editors. This feature makes it an authoritative source in many people’s eyes.
 
 
 

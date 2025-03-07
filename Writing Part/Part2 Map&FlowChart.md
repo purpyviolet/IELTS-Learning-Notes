@@ -369,7 +369,7 @@ The diagram/ flow chart illustrates/ shows the process of...
 
 
 
-e.g. The flow chart illustrates the process of recycling cans and the whole process canbe divided into eight stages.
+e.g. The flow chart illustrates the process of recycling cans and the whole process can be divided into eight stages.
 
 
 

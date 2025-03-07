@@ -169,9 +169,7 @@ The sales figure for **coffee** in Switzerland was the highest at 3 million euro
 
 **Paragraph 2:**
 
-By contrast, much more **bananas** were sold in the UK than any other countries in
-each year, with sales at 15 million in 1999 and at 47 million in 2004 respectively. The
-Fairtrade-labelled bananas had also become increasingly popular in Switzerland and Belgium, and the revenue both saw an over fivefold increase. Finally, the money spent on bananas fell by 0.8 million euros in Belgium and 1.1 in Sweden respectively.
+By contrast, much more **bananas** were sold in the UK than any other countries in each year, with sales at 15 million in 1999 and at 47 million in 2004 respectively. The Fairtrade-labelled bananas had also become increasingly popular in Switzerland and Belgium, and the revenue both saw an over fivefold increase. Finally, the money spent on bananas fell by 0.8 million euros in Belgium and 1.1 in Sweden respectively.
 
 
 
@@ -184,9 +182,7 @@ In 1999, Switzerland had the highest sales of Fairtrade coffee, at 3 million eur
 
 Paragraph 2(Other countries):
 
-Sales of the two Fairtrade products were far lower in Denmark, Belgium and Sweden.
-Small increases in sales of Fairtrade coffee can be seen, but revenue remained at 2 million euros or below in all three countries in both years.
-Finally, it is noticeable that the money spent on Fairtrade bananas actually fell in Belgium and Sweden.
+Sales of the two Fairtrade products were far lower in Denmark, Belgium and Sweden. Small increases in sales of Fairtrade coffee can be seen, but revenue remained at 2 million euros or below in all three countries in both years. Finally, it is noticeable that the money spent on Fairtrade bananas actually fell in Belgium and Sweden.
 
 
 
