@@ -11,6 +11,8 @@
 
 6. 写作无论如何都要最后抽出时间来检查语法（写完＞语法＞内容＞表达≈词汇）无论如何得写完，覆盖整个格式
 
+7. 听力part2&part3出现连续双选题可能是一段音频播放，需注意辨别
+
 
 
 ## 单词拼写or词义
@@ -52,8 +54,10 @@ fasting禁食期
 therapy
 obsession迷住
 contextual
+temperatures注意加s当听力读的是有s时
+seaweed
 
-
+听力注意单复数
 
 
 ### 作文写法
@@ -63,8 +67,22 @@ B across different  A替换 different A's B
 不要出现两个以上的which，可以用分词..., doing ... 替换
 国家前不加The
 slight轻微的不要写成slice
+in 后面加时间点，不要出现in ... years ago的写法
+rely后面不接to，接on，也可以用based on
+**“sorely single range of subjects”** → *“solely on a single range of subjects”*（“sorely” 应为“solely”）
+**“crossed over hundred of subjects”** → *“spans across hundreds of disciplines”*（“hundred” 应该用复数）
+**“just skim on basic knowledge”** → *“just skim through the basics”*（"skim on" 不是正确搭配）
+用evident替代obvious
+plummet本身有急剧下降的意思，不用加dramatic修饰
+三分之一直接用one-third不要用33%
+stabilized注意中间两个i
+
+standing at可以用reaching更精准
+continuous中间的u不要漏了
+change可以被fluctuate替代
 
 ### 阅读理解
 
 They include the Malagasy mouse-eared bat, Major’s long-fingered bat, the Malagasy white-bellied free-tailed bat and Peters’ wrinkle-lipped bat.
-这里的major's并不是指占据主要或者多于的意思
+这里的major's并不是指占据主要或者多于的意思，是名字的意思
+

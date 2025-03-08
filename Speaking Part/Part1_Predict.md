@@ -176,7 +176,7 @@
 
 ## 二级重点
 
-![image-20250306213809341](Part1_Predict.assets/image-20250306213809341.png)
+![](Part1_Predict.assets/image-20250306213809341.png)
 
 当然可以！我会按照**基本回答 + 解释原因 + 拓展**的结构，让答案更加流畅、自然，且符合高分口语的标准。以下是优化后的答案：
 
@@ -263,6 +263,86 @@
  *A: Not really. Since smartphones can display the time, fewer people wear watches for practical purposes. But some still wear them as a fashion statement or for professional reasons.*
  *Reason: Luxury watches, for example, are still popular among business professionals as a symbol of status.*
  *Extension: Additionally, smartwatches have gained popularity because they offer features like fitness tracking and notifications.*
+
+------
+
+### **Borrowing/Lending**
+
+**Q1: Have you ever borrowed something from others?**
+ Yes, I have. I remember borrowing a novel from my friend because I was really interested in reading it but didn’t want to buy a copy. I returned it as soon as I finished, as I believe it’s important to take good care of borrowed items. Borrowing can be convenient, but I try not to rely on it too much because I prefer to have my own things.
+
+**Q2: Do you usually lend things to others?**
+ It depends on what they need. I don’t mind lending small things like books or stationery, but I’m more cautious with expensive items, such as electronic devices. If I trust the person and know they will take good care of my belongings, I don’t mind helping out. However, if it's something valuable, I usually hesitate because I don’t want to deal with any damage or loss.
+
+------
+
+### **Evening Time**
+
+**Q1: What do you usually do in the evening?**
+ In the evening, I like to relax and unwind. After finishing my studies, I usually exercise, like jogging or stretching, to stay active. Before going to bed, I either play games or read a book, depending on my mood. Playing games helps me de-stress, while reading allows me to learn something new. I think having a fixed evening routine is beneficial because it helps maintain a good balance between work and rest.
+
+**Q2: Do you prefer to spend your evenings alone or with others?**
+ It depends. On weekdays, I prefer some quiet time alone to read, play games, or just reflect on the day. But on weekends, I enjoy spending time with friends, whether it’s going out for dinner, chatting online, or watching a movie together. I think both are important—having personal time to relax and also socializing to strengthen relationships.
+
+------
+
+### **Daily Routine**
+
+**Q1: Do you usually follow the same routine every day?**
+ Yes, I try to follow a consistent routine because it helps me stay organized and productive. During the day, I focus on studying or working, and in the evening, I exercise and relax before bed. Of course, sometimes unexpected things come up, and I have to adjust my schedule, but I believe having a general structure to follow makes my life more efficient.
+
+**Q2: Is your daily routine different on weekends?**
+ Yes, definitely. On weekdays, I focus more on studying or work-related tasks, but on weekends, I give myself more time to relax. I might go out with friends, watch movies, or simply sleep in. Also, I sometimes use weekends to catch up on things I didn’t have time for during the week, such as hobbies or organizing my room.
+
+------
+
+### **Websites**
+
+**Q1: What websites do you visit frequently?**
+ I often visit educational websites like Google Scholar and Coursera for studying. For entertainment, I browse social media platforms like Instagram or watch videos on YouTube. I also check news websites regularly to stay updated on current events. I think the internet is a great source of knowledge, but it’s also important to use it wisely and not get too distracted.
+
+**Q2: Do you think people spend too much time on websites nowadays?**
+ Yes, I think so. Many people, including myself, sometimes spend hours on social media or streaming sites without realizing it. While websites are useful, excessive screen time can be unhealthy. I try to set limits for myself by taking breaks and focusing on offline activities, like reading or exercising, to maintain a healthy balance.
+
+------
+
+### **Science**
+
+**Q1: Are you interested in science?**
+ Yes, I find science fascinating because it helps us understand how the world works. I’m especially interested in space exploration and medical research, as they have the potential to change the future. For example, recent advancements in AI-driven healthcare have improved disease detection, which is truly amazing. I believe scientific discoveries not only enhance our quality of life but also inspire future generations to push the boundaries of knowledge.
+
+**Q2: Did you enjoy science classes in school?**
+ Yes, I did. I liked conducting experiments and learning about different scientific concepts. However, some topics, like chemistry, were quite challenging for me. Despite that, I think science education is important because it helps us develop critical thinking skills and a deeper understanding of the world around us.
+
+------
+
+### **Gifts**
+
+**Q1: Do you like giving gifts to others?**
+ Yes, I enjoy giving gifts, especially when I find something that perfectly matches the person’s interests. I think a thoughtful gift can strengthen relationships and bring happiness to both the giver and the receiver. I usually take time to choose something meaningful rather than just buying something expensive, because I believe the thought behind the gift matters more than its price.
+
+**Q2: What kind of gifts do you like to receive?**
+ I prefer gifts that are practical or meaningful. For example, I love receiving books related to my interests or personalized items that show the giver has put some thought into it. Handmade gifts are also special because they carry a personal touch. In the end, it’s not about the value of the gift but the intention behind it that makes it meaningful.
+
+------
+
+### **Talents**
+
+**Q1: Do you think everyone has a talent?**
+ Yes, I believe everyone has their own strengths. Some people are naturally good at music or sports, while others have a talent for problem-solving or creativity. Even if someone doesn’t have an obvious talent, I think with practice and effort, anyone can develop skills that make them stand out in their own way.
+
+**Q2: What talent would you like to have?**
+ I wish I could play a musical instrument like the piano or guitar. I think music is a great way to express emotions, and it would be amazing to perform for friends and family. Learning an instrument also requires patience and dedication, which I think are valuable qualities to develop.
+
+------
+
+### **Electronic Devices/Technology**
+
+**Q1: How often do you use electronic devices?**
+ I use them every day, especially my phone and laptop. I rely on them for studying, entertainment, and communication. However, I try to take breaks to avoid digital fatigue. Sometimes, I also set screen time limits for myself so that I don’t get too distracted and can focus on other activities, like reading or exercising.
+
+**Q2: Do you think technology has improved our lives?**
+ Yes, definitely. Technology has made communication and access to information much easier. For example, we can now connect with people from all over the world instantly and learn new things online. However, it also has drawbacks, such as reducing face-to-face interactions and increasing screen time. I think the key is to use technology wisely and not let it control our lives.
 
 ------
 
