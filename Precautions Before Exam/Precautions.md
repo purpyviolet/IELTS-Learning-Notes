@@ -9,9 +9,13 @@
 
 5. 阅读填空的时候涉及多种物体，一定要看清楚你想填的在不在隔壁的信息中，如果有就说明重复了要重新找
 
-6. 写作无论如何都要最后抽出时间来检查语法（写完＞语法＞内容＞表达≈词汇）无论如何得写完，覆盖整个格式
+6. 写作无论如何都要最后抽出时间来检查语法（写完＞语法＞内容＞表达≈词汇）无论如何得写完，覆盖整个格式检查先检查单复数（非常重要），其次检查时态，最后检查介词
 
 7. 听力part2&part3出现连续双选题可能是一段音频播放，需注意辨别
+
+8. 听力注意单复数
+
+9. 阅读填空注意上下语法，不要填错词性或者找错原句答案个体
 
 
 
@@ -56,8 +60,17 @@ obsession迷住
 contextual
 temperatures注意加s当听力读的是有s时
 seaweed
+enroll等于register
+reindeer
+necessary的c只有一个
+**agriculture不是al而是a**
+countryside不能加s
+competition中间是i，compete动词形式是e
+ventilation通风
+garage读音可能ge会与sh相似
+monument没有多余的u在o后面
 
-听力注意单复数
+
 
 
 ### 作文写法
