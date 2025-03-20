@@ -99,7 +99,7 @@
 3. 老师能够及时解答学生的疑问 answer students' questions in a timely way
 4. 提供理想的学习分为 provide an ideal learning atmosphere，因为几乎没有让人分心的事物 distractions
 5. 朋辈压力和老师的监督能保证学生按时完成任务 complete tasks on time，取得进步 make progress
-6. 系统的教学计划 a systematic teaching plan 辅助 assit 学生定期复习，巩固  consolidate 所学知识
+6. 系统的教学计划 a systematic teaching plan 辅助 assist 学生定期复习，巩固  consolidate 所学知识
 7. 组织定期考试 set regular examinations 能够及时发现学生的不足
 8. 同学之间的竞争提供学习动力 provide motivation for learning
 9. 学习基本的社会准则 basic social rules，如守时 punctuality、不能作弊等，以更好规范学生行为 better regulate students' behavior
@@ -126,7 +126,7 @@
 
 ### 科学技术Science
 
-1. 学习逻辑四维acquire logical thinking、理性态度rational attitude、分析技巧analytical skills
+1. 学习逻辑思维acquire logical thinking、理性态度rational attitude、分析技巧analytical skills
 2. 学习分析以及解释数据analyse and interpret data，运用数学和计算思维computational thinking
 3. 跟据证据进行论证engage in argument from evidence
 4. 获取、评估和处理信息obtain, evaluate and process information

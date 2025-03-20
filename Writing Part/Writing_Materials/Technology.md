@@ -91,7 +91,7 @@
 
 ### 生命生活
 
-1. **导致****公共交通需求降低**（cause lower demand for public transport）
+1. **导致公共交通需求降低**（cause lower demand for public transport）
 2. **导致过度依赖数据平台和网络**（result in an over-reliance on data platforms and networks）
 3. 引起**网络安全**（cyber-attacks），**数据盗窃**（data fraud or theft），**数据错误**（digital misinformation）等问题
 

@@ -59,7 +59,7 @@
 1. 购买新产品的成本较低(be relatively low)
 2. 产品经济价值不如以往(be not as high as before)
 3. 化石燃料满足大多数电力、交通等需求（satisfy most of the electricity and transport demand）
-4. 化石燃料是国内生产总值的主要组成部分（constitute the main component of GDP）
+4. 化石燃料是国内生产总值的主要组成部分（**constitute** the main component of GDP）
 5. 化石燃料相对便宜（be relatively cheap）
 6. 化石燃料生产有用的副产品(produce useful by-products)，比如塑料袋
 
@@ -90,7 +90,7 @@
 7. **给蚊虫提供绝佳繁殖地**（provide ideal breeding grounds for mosquitoes）
 8. 动物**错把垃圾袋当作食物**（mistake plastic bags for food）
 9. 垃圾填埋场里的有毒物质**会毒害鸟类等其他生物**（can poison birds and other creatures）
-10. 对于不可再生资源的过度开发**能加剧资源紧缺****/****耗竭**（can exacerbate the resource strain/depletion)
+10. 对于不可再生资源的过度开发**能加剧资源紧缺耗竭**（can exacerbate the resource strain/depletion)
 11. 冰川融化导致海平面上升（lead to rising sea levels）
 12. 人造光线带来城市霞光污染，**能干扰人们睡眠和褪黑素的产生**（can interrupt human’s sleep and production of hormone melatonin）
 13. 光污染**影响动物行为**(can affect animal behaviors)，比如**鸟类迁徙**(as bird migration)和其他**夜行动物的习性**(habits of nocturnal animals)，如蝙蝠、飞蛾

@@ -92,7 +92,7 @@
 2. **资助振兴活动** (can fund or finance reviving activities)
 3. **以促进旅游业发展来保护老建筑**(promote the development of tourism to protect old buildings)
 4. **鼓励公司和个人捐款**(encourage companies and individuals to donate)，**利用老房子开展各种活动**(make use of old houses to hold some activities)，**引起人们对老房子的关注**(draw people’s attention to the old buildings)
-5. 语言学家通过**编纂字典**(make dictionaries)、**记录历史和传统**(record histories and traditions)、以及翻译口头故事等方式来**记录和存档正在消失的语言** (document and archive the disappearing languages)
+5. 语言学家linguist通过**编纂字典**(make dictionaries)、**记录历史和传统**(record histories and traditions)、以及翻译口头故事等方式来**记录和存档正在消失的语言** (document and archive the disappearing languages)
 6. **对语言进行录音** (record the language)
 7. **记录或者拍摄历史资料** (write down or photograph historical materials)
 8. 本地社区**开设语言课程**(offer courses on the disappearing languages)，**保证年轻一代人学习并且传承这种语言**(may help ensure that younger generations learn and inherit them)

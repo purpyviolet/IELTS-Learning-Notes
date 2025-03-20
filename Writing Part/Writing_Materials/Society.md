@@ -32,7 +32,7 @@
 
 1. **科学技术发展**(technological advancement)**淘汰了许多低技术的岗位**(have eliminated unskilled positions)
 
-2. 在工厂里，人们**不再需要做重复性或重体力的工作**(will be no longer required to engage in repetitive or physically demanding work)
+2. 在工厂里，人们**不再需要做重复性或重体力的工作**(will be no longer required to engage in **repetitive or physically demanding work**)
 
 
 
@@ -40,7 +40,7 @@
 
 1. **需要灵活的工作**(demand job flexibility )
 2. **兼顾家庭生活和工作**(need to juggle one’s work and family life)
-3. **照顾家庭成员**(will have to cater for family members)
+3. **照顾家庭成员**(will have to **cater** for family members)
 4. **因为身体原因而离职**(may leave for health-related issues)
 
 5. **通勤时间**(travel time)**太长**(be too long)
@@ -51,9 +51,9 @@
 
 1. **学习不同领域的知识技能**(acquire knowledge and skills in different fields)
 2. **达成特定的职业目标**(achieve specific career goals)
-3. 通过**换工作**(job switching)来**理清楚职业道路**(could help figure out one’s career path)
-4. **拓宽专业人脉**(could expand one’s professional networking)
-5. **有更多自由去尝试不同的道路**(have more freedom to try out career possibilities)
+3. 通过**换工作**(job switching)来**理清楚职业道路**(could help **figure out** one’s career path)
+4. **拓宽专业人脉**(could **expand one’s professional networking**)
+5. **有更多自由去尝试不同的道路**(have more freedom to **try out career possibilities**)
 6. **培养灵活的世界观**(develop a flexible outlook on the world)
 7. **培养多种技能**(develop multiple skill sets)
 
@@ -65,7 +65,7 @@
 
 1. **遇到职业瓶颈**(have met a career bottleneck)
 2. **想要更换职业道路**(intend to change career paths)
-3. **做好准备去探索新的职业轨迹**(have prepared themselves well enough for a new trajectory on career path)
+3. **做好准备去探索新的职业轨迹**(have prepared themselves well enough for a new **trajectory** on career path)
 4. **想要在不一样的产业中工作**(want to engage in a different industry)
 5. **想回学校深造**(plan to go back to school for further education)
 6. **有更好的机会**(have found a better employment)
@@ -74,7 +74,7 @@
 9. 在所从事的行业（高科技领域）中，人员**流动性本就很高**(a high turnover)
 10. **公司重组**(be reconstructed)，我所在的部门**被裁了**(be eliminated)
 11. 公司**裁员**(downsize)，**不够资历**(lack of qualification)，所以合同终止了(**be terminated**)
-12. 公司**停业或****破产**(go out of business)
+12. 公司**停业或破产**(go out of business)
 13. **劳动力**(labour force)的**合理配置**(more reasonable distribution)
 
 14. 公司可以通过**猎头招聘**(headhunting)到**更加有工作经验的人才**(recruit more experienced workers)
@@ -85,7 +85,7 @@
 
 1. **与前同事、上司或下属关系不够融洽**(unpleasant relationships with former colleagues, superiors or subordinates)
 2. **在情感和行为上，没有与工作和公司相连接**(may be not emotionally or behaviorally connected to the job and the company)
-3. **需要走出舒适圈**(need to step out of one’s comfort zone)
+3. **需要走出舒适圈**(need to **step out of one’s comfort zone**)
 4. **寻求新的挑战**(look out for a new challenge)
 5. **重塑工作动力**(renew motivation towards working)
 6. **价值观**(values)**与公司使命不一致**(no longer align with organizational goals)
@@ -265,8 +265,8 @@
 
 ### 生命生活
 
-1. 个人**学会放下手机、离开电脑****，****多和家人朋友见面**(make attempts to put down the phone, get off the computer and interact more often with family and friends)
-2. **提高****家庭的凝聚力**(promote greater family cohesion )
+1. 个人**学会放下手机、离开电脑**，**多和家人朋友见面**(make attempts to put down the phone, get off the computer and interact more often with family and friends)
+2. **提高家庭的凝聚力**(promote greater family cohesion )
 3. **建立社区中心，为当地人举办活动**(set up the community centers and organize activities for the locals)
 4. **社区间更多的互动**(encourage more interaction between communities)
 5. **敦亲睦邻**(maintain close family bonds)
@@ -619,7 +619,7 @@
 1. **个人可支配收入增加**(an increase in disposable income per capita)
 2. **经济全球化**(economic globalization)
 3. **航空票价降低**(lower airfares)
-4. Airbnb和其他**家庭共享平台**(home-sharing platfroms)
+4. Airbnb和其他**家庭共享平台**(home-sharing platforms)
 
 5. **文商交融的趋势渐长**(the gradual upturn in cultural and commercial intermingling)
 
@@ -649,8 +649,6 @@
 ### 情感特质
 
 1. **千禧一代(**millennial generation)**出国旅行意愿强**(have high willingness to travel abroad)
-
-2. **目的地濒临灭绝的意识**(the awareness of the imminent extinction of some destination) **促使一些人趁早前往**(motivate some people to visit before it is too late)
 
 
 
@@ -726,7 +724,7 @@
 1. **文化的商业化**(cultural commercialization)**破坏了旅游目的地的灵魂**(do damages to the core values of a touristy destination)
 2. **文化冲突**(culture shock)
 3. **语言障碍**(language barriers)
-4. **对本土文化构成潜在威胁**(pose a potential threat to the indigenous culture)
+4. **对本土文化构成潜在威胁**(pose a potential threat to the **indigenous culture**)
 5. **破坏文物**(destruct cultural relics)
 6. **文化同化及文化渗透**(cultural assimilation and penetration)
 7. **度假者**(holidaymakers)**对其他文化的不尊重**(may behave disrespectfully to other cultures)

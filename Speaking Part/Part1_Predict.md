@@ -21,7 +21,7 @@
 ### **2. Work or Study（本科生，人工智能专业）**
 
 **Q: What do you study?**
- **A:** *I’m an undergraduate student majoring in Artificial Intelligence. My coursework covers a wide range of topics, including machine learning, deep learning, and data science. I find this field fascinating because AI is shaping the future and has applications in almost every industry.*
+ **A:** *I’m an undergraduate student majoring in Artificial Intelligence. My coursework covers a wide range of topics, including machine learning, deep learning, and data science. I find this field fascinating because AI **is shaping the future and has applications in almost every industry**.*
 
 ✅ **答题建议**
 
@@ -45,7 +45,7 @@
 ### **4. Hometown（湖北仙桃）**
 
 **Q: Where is your hometown?**
- **A:** *My hometown is Xiantao, a small city in Hubei Province. It’s known for its beautiful rural landscapes and its strong agricultural industry, particularly cotton and rice farming. Life there is much slower compared to big cities, but I appreciate its peaceful atmosphere and friendly community.*
+ **A:** *My hometown is Xiantao, a small city in Hubei Province. It’s **known for its beautiful rural landscapes** and its **strong agricultural industry**, particularly cotton and rice farming. Life there is much slower compared to big cities, but I appreciate its peaceful atmosphere and friendly community.*
 
 ✅ **答题建议**
 
@@ -54,10 +54,10 @@
 
 ------
 
-### **5. Old Buildings（老建筑 1015）**
+### **5. Old Buildings（老建筑）**
 
 **Q: Do you like old buildings?**
- **A:** *Yes, I do. Old buildings have a unique charm and historical significance that modern architecture often lacks. In Guangzhou, for example, there are many well-preserved historical sites like Shamian Island, which reflect the city’s colonial past and cultural heritage.*
+ **A:** *Yes, I do. Old buildings **have a unique charm and historical significance** that **modern architecture often lacks**. In Guangzhou, for example, there are many well-preserved historical sites like Shamian Island, which reflect the city’s colonial past and cultural heritage.*
 
 ✅ **答题建议**
 
@@ -66,7 +66,7 @@
 
 ------
 
-### **6. Colors（喜欢蓝色，不喜欢黑色 1010）**
+### **6. Colors（喜欢蓝色，不喜欢黑色）**
 
 **Q: What is your favorite color?**
  **A:** *My favorite color is blue because it gives me a sense of calm and stability. It also reminds me of the ocean and the sky, which makes me feel relaxed and refreshed.*
@@ -81,7 +81,7 @@
 
 ------
 
-### **7. Advertisement（广告 1006）**
+### **7. Advertisement（广告）**
 
 **Q: Do you like advertisements?**
  **A:** *Not really. While some ads are creative and entertaining, many are repetitive and intrusive. I especially dislike online ads that pop up unexpectedly while I’m watching videos or browsing websites.*
@@ -93,7 +93,7 @@
 
 ------
 
-### **8. Hat/Caps（贝雷帽 1001）**
+### **8. Hat/Caps（贝雷帽）**
 
 **Q: Do you like wearing hats?**
  **A:** *Yes! I often wear berets because they are soft, comfortable, and loosely fitted. They add a stylish touch to my outfits while keeping me warm on cooler days.*
@@ -105,7 +105,7 @@
 
 ------
 
-### **9. Hobby（羽毛球、钢琴 996）**
+### **9. Hobby（羽毛球、钢琴）**
 
 **Q: What hobbies do you have?**
  **A:** *I enjoy playing badminton and the piano. Badminton helps me stay active and energized, while playing the piano allows me to relax and express my emotions through music.*

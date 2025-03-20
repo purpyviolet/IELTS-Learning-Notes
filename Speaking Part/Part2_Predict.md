@@ -23,7 +23,7 @@ Looking back, I feel really grateful for his guidance. His advice helped me make
 
 ------
 
-### **2. 去过且推荐的宜居之地（1018，新加坡）**
+### **2. 去过且推荐的宜居之地（新加坡）**
 
 **题目：Describe a place you have been to and would like to recommend as a good place to live.**
  **You should say:**
@@ -247,8 +247,6 @@ Despite not being the highest-paid profession, teaching is invaluable. A great t
 I truly admire educators who dedicate themselves to this noble profession. They may not always receive the recognition they deserve, but their impact is profound and long-lasting."_
 
 
-
-好的，我会扩展答案，让表达更丰富、更自然，同时保持逻辑清晰，确保有足够的细节支撑叙述。
 
 ------
 
@@ -694,3 +692,219 @@ When people seek advice from my grandfather, he offers a **wide range of guidanc
 Personally, I have always **admired** my grandfather’s ability to provide **sound advice**. Whenever I faced **challenges or dilemmas**, I would seek his counsel. He never hesitated to offer his perspective, even if it meant giving me **some tough love**. His **words of wisdom** have shaped me into a **better person**, and I attribute much of my **growth** to his guidance.
 
 In conclusion, my grandfather is a person from whom others seek advice because of his **wisdom, vast experiences, and empathetic nature**. The guidance he offers spans **various aspects of life**, and he has been a **pillar of support** for many. I am incredibly **fortunate** to have him in my life, and his influence has **profoundly impacted me**.
+
+
+
+
+
+### **仰慕的运动员**
+
+**Describe an athlete you admire**
+
+You should say:
+
+- **Who the athlete is**: *Su Bingtian*
+  - *Keywords*: Chinese sprinter, 100-meter race, speed, Asian Flying Man, record-breaker
+- **Where/how you got to know the athlete**: *I first learned about him during high school while watching the Olympics.*
+  - *Keywords*: high school, Olympics, first Chinese under 10 seconds, impressive performance
+- **How often you watch their sports games**: *I follow his performances in every international competition.*
+  - *Keywords*: international events, Olympics, World Championships, track and field
+- **And explain why you admire the athlete**: *His dedication and perseverance inspire me to work harder in my studies and personal fitness.*
+  - *Keywords*: hard work, perseverance, motivation, dedication, role model, self-discipline, overcoming challenges
+
+
+
+One athlete I truly **admire** is **Su Bingtian**, a **Chinese sprinter** who made history in the **100-meter men’s race**. He is often referred to as **"The Asian Flying Man"** because of his **remarkable speed** and **outstanding achievements** in track and field.
+
+I first got to know about him **during high school**, when I watched the **Olympic Games**. At that time, I was amazed by his **incredible performance**—he was the first Chinese sprinter to break the **10-second barrier** in the 100-meter dash. His **dedication to the sport** and his ability to compete with world-class athletes left a deep impression on me.
+
+I make sure to **watch all of his competitions**, especially **international events** like the **Olympics and World Championships**. Every time he steps onto the track, I feel a sense of **excitement and pride**, eagerly anticipating his performance.
+
+What I admire most about Su Bingtian is his **unwavering motivation** and **relentless pursuit of excellence**. Despite facing numerous challenges, including injuries and doubts about whether Asian athletes could excel in sprinting, he **never gave up**. His journey is a testament to **hard work, perseverance, and self-discipline**.
+
+His story **deeply inspires me**—not only in sports but also in my personal life. He encourages me to **push my own limits**, whether in **studies or physical fitness**. Whenever I feel tired or unmotivated, I think about his **dedication to training**, and it reminds me to **stay focused and determined**.
+
+In conclusion, Su Bingtian is not just a great athlete but also a role model who **inspires countless young people** to **chase their dreams fearlessly**.
+
+------
+
+
+
+### **有趣的城市 926**
+
+**Describe a city that you think is very interesting**
+
+You should say:
+
+- **Where it is**: *Singapore*
+  - *Keywords*: Southeast Asia, island nation, small but developed, economic hub
+- **What it is famous for**: *Clean environment, multicultural society, and modern architecture*
+  - *Keywords*: Marina Bay Sands, Gardens by the Bay, diverse culture, street food, strict laws
+- **How you knew this city**: *Through travel documentaries and personal visits*
+  - *Keywords*: travel videos, tourism, personal experience, research, recommendations
+- **And explain why you think it is very interesting**: *The city’s unique blend of cultures, futuristic cityscape, and strict yet effective policies make it fascinating.*
+  - *Keywords*: high-tech city, green spaces, public transport, food paradise, cultural diversity
+
+
+
+Singapore is a city that I find **incredibly fascinating**. Located in **Southeast Asia**, it is a **small yet highly developed** country known for its **cleanliness, efficient public transport, and stunning skyline**.
+
+One of the things that make Singapore **stand out** is its **multicultural society**. People from different ethnic backgrounds, including **Chinese, Malay, Indian, and Western influences**, live harmoniously together. This diversity is reflected in **the city’s cuisine, festivals, and traditions**, making it an exciting place to explore.
+
+I first learned about Singapore **through travel documentaries** and later had the opportunity to **visit the city in person**. Watching its **futuristic architecture**, such as **Marina Bay Sands and Gardens by the Bay**, left a lasting impression on me.
+
+What makes Singapore truly interesting is its **blend of tradition and modernity**. Despite being a **highly urbanized city**, it has numerous **green spaces**, like the **Singapore Botanic Gardens**, which offer a refreshing escape from the bustling city life. Additionally, the government’s strict yet **effective policies**, such as **anti-littering laws and the ban on chewing gum**, have contributed to maintaining an **exceptionally clean and orderly environment**.
+
+Overall, Singapore’s **unique culture, modern infrastructure, and efficient governance** make it one of the most **fascinating cities** in the world.
+
+------
+
+
+
+### **家庭重要设备 922**
+
+**Describe a piece of equipment that is important in your home**
+
+You should say:
+
+- **What it is**: *Refrigerator*
+  - *Keywords*: kitchen appliance, food storage, cooling system, energy-efficient
+- **How often you use it**: *Every day*
+  - *Keywords*: daily use, fresh food, meal prep, cold beverages
+- **With whom you use it**: *My family members*
+  - *Keywords*: shared appliance, household necessity, cooking, family meals
+- **And explain why it is important**: *It helps store food, reduces waste, and makes daily life more convenient.*
+  - *Keywords*: food preservation, cost-saving, convenience, essential, prevents spoilage
+
+One of the most **important appliances** in my home is the **refrigerator**. It is an **essential household device** that helps us **store food, keep ingredients fresh, and reduce waste**.
+
+I use the refrigerator **every single day**. Whether it’s **keeping vegetables fresh, storing leftovers, or chilling drinks**, it plays a vital role in our **daily life**.
+
+I share this appliance with my **family members**, and we all **rely on it heavily**. It allows us to **plan meals in advance**, store perishable items for **longer periods**, and even enjoy **homemade frozen desserts**.
+
+The refrigerator is important because it **prevents food spoilage**, helping us **save money** and **reduce food waste**. Without it, we would have to **buy fresh ingredients daily**, which would be both **time-consuming and inconvenient**. Additionally, it makes life **more comfortable**, as we can always enjoy **cold beverages, fresh fruits, and dairy products**.
+
+In conclusion, the refrigerator is **an indispensable part** of modern households, making daily life **more convenient, efficient, and enjoyable**.
+
+
+
+### **花费甚少的外出日 918**
+
+**Describe a special day out that cost you little money**
+
+You should say:
+
+- **When was the day**: *Last summer*
+  - *Keywords*: summer, holiday, budget-friendly, spontaneous, memorable
+- **Where you went**: *A local park with a beautiful lake and picnic area*
+  - *Keywords*: nature, greenery, lake, picnic, relaxation
+- **How much you spent**: *Less than $10, just for snacks and drinks*
+  - *Keywords*: minimal cost, affordable, food, transportation, budget travel
+- **And explain how you feel about the day**: *It was peaceful and refreshing, proving that happiness doesn’t require spending a lot of money.*
+  - *Keywords*: joyful, stress-free, quality time, meaningful experience, relaxation
+
+#### **Background**
+
+A special day out doesn’t always have to be expensive to be memorable. There are many ways to enjoy a great day without spending much—visiting a park, having a picnic, or simply exploring a new place on foot. Sometimes, the best experiences come from simple activities that focus on spending quality time with loved ones rather than spending money.
+
+#### **Overview**
+
+Last summer, I had such an experience when my friends and I decided to go for a budget-friendly outing. We wanted to relax and enjoy nature without spending too much, so we chose to visit a large public park near our city. Since it was easily accessible by bus and had free entry, it was the perfect destination for a fun yet inexpensive day.
+
+#### **Details**
+
+We planned ahead by preparing homemade sandwiches, snacks, and drinks, so we wouldn’t need to buy food there. The park was vast, with a beautiful lake, walking trails, and open green spaces. We spent the afternoon having a picnic, playing card games, and just chatting under the shade of a big tree. Some of us even rented bicycles for a small fee and cycled around the park, enjoying the fresh air. The only money I spent that day was around $5 for a drink and some ice cream.
+
+#### **Feelings**
+
+Even though we didn’t do anything extravagant, the day felt truly refreshing and enjoyable. The peaceful environment, good weather, and great company made it one of the most relaxing days I’ve had in a long time. It reminded me that happiness doesn’t always come from expensive activities—sometimes, the simplest moments bring the most joy.
+
+#### **Significance**
+
+This experience taught me that spending quality time with friends doesn’t require a lot of money. As long as we have good company and a nice setting, even a simple outing can be incredibly meaningful. It also made me appreciate the beauty of nature and the importance of taking breaks from our busy schedules to enjoy the little things in life.
+
+------
+
+### **看到野生动物的地方 914**
+
+**Describe a place you have been to where you can see wild animals**
+
+You should say:
+
+- **Where it is**: *Australia, inside a park where we could see kangaroos while playing golf*
+  - *Keywords*: Australia, wildlife park, open space, natural environment, golf course
+- **When you went there**: *When I was 10 years old, with my family and my friend’s family*
+  - *Keywords*: childhood, family trip, outdoor adventure, first experience
+- **What animals you saw there**: *Kangaroos – we walked around the park and got as close as 5 meters to them*
+  - *Keywords*: kangaroos, close-up experience, wild animals, safety rules, exotic wildlife
+- **How you feel about the place**: *It was peaceful and exciting at the same time, as I had only seen kangaroos on TV before.*
+  - *Keywords*: tranquility, nature, adventure, unforgettable, special memory
+
+
+
+#### **Background**
+
+Observing wild animals in their natural habitat is a rare and exciting experience. Unlike seeing animals in a zoo, where they are confined to small spaces, visiting a wildlife park or a natural reserve allows people to see animals roaming freely. Such places not only provide a closer connection to nature but also raise awareness about the importance of wildlife conservation.
+
+#### **Overview**
+
+When I was around 10 years old, my family and my friend’s family traveled to Australia. One of the most memorable parts of the trip was visiting a wildlife park where we could see kangaroos up close. Since I had only seen them on TV before, I was thrilled to finally observe them in real life.
+
+#### **Details**
+
+The wildlife park was located in a vast, open area surrounded by beautiful greenery. It had different sections for various animals, but the most exciting part was the kangaroo area. Visitors were allowed to walk through a designated path where kangaroos roamed freely.
+
+As we walked through the park, we spotted several kangaroos resting under the trees. We cautiously approached them, keeping a safe distance of about five meters. Seeing them hopping around in their natural environment was an unforgettable experience. Though we were not allowed to touch them for safety reasons, just observing them up close was exciting.
+
+Later, we had lunch at the park’s restaurant. To my surprise, the menu included kangaroo meat, prepared like a steak. Out of curiosity, I decided to try a small piece, but I found it quite tough and not as flavorful as regular beef.
+
+#### **Feelings**
+
+I felt a deep sense of peace and excitement during the visit. The park was a beautiful place, far away from the noise of the city, offering a perfect escape into nature. At the same time, I was thrilled to see kangaroos up close for the first time. It was a moment I had only imagined before, making it a truly unforgettable experience.
+
+#### **Significance**
+
+This visit made me appreciate the beauty of nature and the importance of protecting wildlife. Seeing animals in their natural environment rather than in captivity changed my perspective on conservation. It also sparked my curiosity about different ecosystems and encouraged me to explore more places where nature and wildlife thrive.
+
+------
+
+### **弄丢贵重物品 910**
+
+**Describe a time when you lost a valuable item**
+
+You should say:
+
+- **When and where it happened**: *Last year at the Singapore National Art Museum*
+  - *Keywords*: museum, travel, unforgettable, unfortunate, personal loss
+- **What it was**: *An umbrella that I had used for three years*
+  - *Keywords*: sentimental value, everyday item, durable, protective, companion
+- **How valuable it was**: *It accompanied me throughout my university life and carried a lot of memories*
+  - *Keywords*: emotional attachment, nostalgia, university memories, rainy days
+- **How you lost it**: *Left it on the top floor of the museum while resting, and when I returned, it was gone*
+  - *Keywords*: carelessness, regret, lost and found, disappointment, lesson learned
+- **And explain how you felt about the experience**: *I was really sad, but it taught me to be more careful and less emotionally attached to material things.*
+  - *Keywords*: sadness, reflection, responsibility, life lesson, practicality
+
+
+
+#### **Background**
+
+Losing a valuable item is always frustrating, but when the item holds sentimental value, the experience can be even more painful. Sometimes, an object is not just a physical possession—it carries memories, emotions, and personal significance. This makes its loss feel like losing a part of one’s past.
+
+#### **Overview**
+
+Last year, I experienced this firsthand when I lost my favorite umbrella during a visit to the Singapore National Art Museum. Although it was just an ordinary umbrella, I had used it throughout my entire university life, making it a meaningful part of my daily routine.
+
+#### **Details**
+
+That day, I was enjoying the museum’s exhibitions with my friends, completely immersed in the beautiful artworks. As we explored different floors, we eventually reached the top floor, where we decided to take a short break. I placed my umbrella beside my seat and didn’t think much about it.
+
+After finishing our break, we continued our tour and eventually left the museum. It wasn’t until we were outside that I realized I had left my umbrella behind. I immediately rushed back to the top floor, but it was already gone. I asked the museum staff if anyone had turned it in, but no one had seen it.
+
+#### **Feelings**
+
+I felt really upset for the next few days. That umbrella had been with me through countless rainy days, offering protection and comfort. Losing it made me realize how much I had unknowingly relied on it. At the same time, I was frustrated with myself for being careless.
+
+#### **Significance**
+
+This experience taught me two valuable lessons. First, I need to be more mindful of my belongings and always double-check before leaving a place. Second, I realized that while objects can carry sentimental value, it is ultimately the memories associated with them that matter most. Losing the umbrella didn’t erase the experiences I had with it, and moving forward, I learned to cherish memories rather than just physical objects.

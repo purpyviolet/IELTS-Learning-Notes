@@ -75,7 +75,7 @@
 
 ### 生命生活
 
-1. **劝说人们去追随最新的潮流**(will tempt people into following the latest trends)
+1. **劝说人们去追随最新的潮流**(will **tempt** people into following the latest trends)
 2. **控制消费者的决策过程**(**hold sway** over the decision-making process of customers)
 3. **促使消费者做出不理智决定**(may prompt consumers to make irrational decisions)
 4. **被误导信息所左右**(can **be swayed by** misleading information)
@@ -83,7 +83,7 @@
 6. **提供有误导性的信息**(provide misleading information)
 7. **夸大效用**(**exaggerate** the effects of the products)
 8. **推销垃圾食品**(sell junk food)
-9. **让人们不满足自己的财产甚至不满足于真正的自己**(can make people no longer feel constantly satisfied with their possessions and with who they are)
+9. **让人们不满足自己的财产甚至不满足于真正的自己**(can make people no longer feel **constantly satisfied with their possessions** and with who they are)
 10. **打断精彩节目**(interrupt television viewing)
 11. **导致消费主义和物质主义的盛行**(lead to the prevalence of consumerism and materialism)
 12. **造成道德沦丧**(can be partially responsible for deteriorating moral and ethical values)，因为广告**滋生社会问题**(may engender social issues)诸如**抽烟、酗酒和享乐主义生活方式**(smoking, excessive drinking and hedonistic lifestyle)
