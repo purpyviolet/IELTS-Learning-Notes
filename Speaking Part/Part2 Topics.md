@@ -1,6 +1,6 @@
 ## 关于旅行经历
 
-Describe  a car trip that you went on.
+Describe a car trip that you went on.
 
 I am going to talk about a time when I took a road trip along the Quebec in Canada. It was about 6 years ago that I wen on this trip. At that time, I just have my summer vacation after the semester. My cousin went to Canada for study, and we had been 2 years not seeing each other. So we thought it would be a good idea to go on a trip together, just to create some beautiful memories.
 

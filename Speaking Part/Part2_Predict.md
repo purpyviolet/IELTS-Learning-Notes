@@ -2,7 +2,7 @@
 
 ------
 
-### **1. 征求意见（1021）**
+### **1. 征求意见**
 
 **题目：Describe a time when you asked for advice from someone.**
  **You should say:**
@@ -44,7 +44,7 @@ If I ever get the chance, I would love to live in Singapore. It offers a high qu
 
 ------
 
-### **3. 精力充沛的人（1014，我的朋友Micky）**
+### **3. 精力充沛的人（我的朋友Micky）**
 
 **题目：Describe a person you know who is full of energy.**
  **You should say:**
@@ -65,7 +65,7 @@ I really admire Micky’s enthusiasm for life. Being around him motivates me to 
 
 ------
 
-### **4. 受欢迎的名人（1011，Elon Musk）**
+### **4. 受欢迎的名人（Elon Musk）**
 
 **题目：Describe a famous person who is popular in your country.**
  **You should say:**
@@ -86,7 +86,7 @@ If I had the chance, I would love to meet Elon Musk. I would ask him about his t
 
 ------
 
-### **5. 有趣的邻居（1007，退伍老兵爷爷）**
+### **5. 有趣的邻居**
 
 **题目：Describe an interesting neighbor you have.**
  **You should say:**
@@ -107,7 +107,7 @@ I find him truly inspiring because of his wisdom and life experiences. Talking t
 
 ------
 
-### **6. 文化之地（1003，北京）**
+### **6. 文化之地（北京）**
 
 **题目：Describe a place with a rich culture that you have visited.**
  **You should say:**
@@ -730,7 +730,7 @@ In conclusion, Su Bingtian is not just a great athlete but also a role model who
 
 
 
-### **有趣的城市 926**
+### **有趣的城市**
 
 **Describe a city that you think is very interesting**
 
@@ -761,7 +761,7 @@ Overall, Singapore’s **unique culture, modern infrastructure, and efficient go
 
 
 
-### **家庭重要设备 922**
+### **家庭重要设备**
 
 **Describe a piece of equipment that is important in your home**
 
@@ -788,7 +788,7 @@ In conclusion, the refrigerator is **an indispensable part** of modern household
 
 
 
-### **花费甚少的外出日 918**
+### **花费甚少的外出日**
 
 **Describe a special day out that cost you little money**
 
@@ -825,7 +825,7 @@ This experience taught me that spending quality time with friends doesn’t requ
 
 ------
 
-### **看到野生动物的地方 914**
+### **看到野生动物的地方**
 
 **Describe a place you have been to where you can see wild animals**
 
@@ -868,7 +868,7 @@ This visit made me appreciate the beauty of nature and the importance of protect
 
 ------
 
-### **弄丢贵重物品 910**
+### **弄丢贵重物品**
 
 **Describe a time when you lost a valuable item**
 

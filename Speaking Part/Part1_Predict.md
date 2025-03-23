@@ -117,7 +117,7 @@
 
 ------
 
-### **10. Housework and Cooking（没试过但愿意 992）**
+### **10. Housework and Cooking（没试过但愿意）**
 
 **Q: Do you like cooking?**
  **A:** *I haven’t really tried cooking before, but I’d love to learn. It seems like a useful skill, and I admire people who can prepare delicious meals from scratch.*
@@ -128,7 +128,7 @@
 
 ------
 
-### **11. Stories（故事 988）**
+### **11. Stories（故事）**
 
 **Q: Do you like reading stories?**
  **A:** *Yes, I love reading stories, especially fiction. They allow me to escape reality and explore different worlds and perspectives.*
@@ -139,7 +139,7 @@
 
 ------
 
-### **12. Friends（朋友 985）**
+### **12. Friends（朋友）**
 
 **Q: Do you prefer having a few close friends or a big group of friends?**
  **A:** *I prefer having a few close friends. I value deep and meaningful relationships over having many acquaintances.*
@@ -150,7 +150,7 @@
 
 ------
 
-### **13. Apps（手机应用 982）**
+### **13. Apps（手机应用）**
 
 **Q: What apps do you often use?**
  **A:** *I frequently use social media and productivity apps. For example, I use WeChat to stay in touch with my friends and Notion to organize my studies.*
@@ -161,7 +161,7 @@
 
 ------
 
-### **14. Quiet/Noisy Places（喜欢图书馆、实验室 977）**
+### **14. Quiet/Noisy Places（喜欢图书馆、实验室）**
 
 **Q: Do you prefer quiet places or noisy places?**
  **A:** *I definitely prefer quiet places like libraries and laboratories. They allow me to concentrate and be more productive without distractions.*
@@ -182,7 +182,7 @@
 
 ------
 
-### **1. Party（973）**
+### **1. Party**
 
 **Q: Do you like going to parties?**
  *A: It depends on the type of party. If it’s a small gathering with close friends, I really enjoy it because it’s a great way to relax and have fun. However, I’m not a big fan of loud, crowded parties where it’s difficult to have meaningful conversations.*
@@ -196,7 +196,7 @@
 
 ------
 
-### **2. Young People（969）**
+### **2. Young People**
 
 **Q: What kinds of activities do young people like to do?**
  *A: Young people today enjoy a mix of indoor and outdoor activities. Many like playing sports, going to the gym, or hiking, while others prefer watching movies, playing video games, or spending time on social media.*
@@ -210,7 +210,7 @@
 
 ------
 
-### **3. Computer（966）**
+### **3. Computer**
 
 **Q: How often do you use a computer?**
  *A: I use a computer every day because it’s essential for my studies and hobbies. I mainly use it for programming, research, and sometimes entertainment like watching videos or playing games.*
@@ -224,7 +224,7 @@
 
 ------
 
-### **4. Doing Sports（962）**
+### **4. Doing Sports**
 
 **Q: What sports do you like to play?**
  *A: I really enjoy playing badminton because it’s a fun and fast-paced sport. It helps me stay active and is a great way to socialize with friends.*
@@ -238,7 +238,7 @@
 
 ------
 
-### **5. The City You Live In（958，广州）**
+### **5. The City You Live In**
 
 **Q: What do you like about the city you live in?**
  *A: I love Guangzhou’s mix of modern and traditional culture. It has a great public transportation system, delicious food, and plenty of interesting places to visit.*
@@ -252,7 +252,7 @@
 
 ------
 
-### **6. Watch（953）**
+### **6. Watch**
 
 **Q: Do you wear a watch?**
  *A: No, I don’t wear a watch because I usually check the time on my phone. However, I do think watches can be stylish accessories.*
