@@ -4,3 +4,9 @@
 
 
 This note is typically suitable for English learners with a certain foundation(Band 6 550+).
+
+
+
+首考：
+
+<img src="fig/grade.jpg" alt="973efc34f334bd51dec29efbca841c5" style="zoom:50%;" />
